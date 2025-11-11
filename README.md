@@ -68,11 +68,12 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
  
 8. Edit the generated main program as required.
    <img width="1919" height="1112" alt="image" src="https://github.com/user-attachments/assets/5bbe56fc-c2e4-4a6b-bb6c-e4b180efdfa9" />
-   <img width="1919" height="850" alt="image" src="https://github.com/user-attachments/assets/254ad279-a02d-47b9-8514-d2a1d29fb5fa" />
+   <img width="1914" height="1117" alt="image" src="https://github.com/user-attachments/assets/4d2ac2cc-49a1-45fd-9768-6264c97dff21" />
+
 
 
 9. Click **Project → Build All**.
-  <img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/a1577bf0-174b-4bac-8fc3-98ad6663a925" />
+ <img width="1916" height="1136" alt="image" src="https://github.com/user-attachments/assets/71e3b463-d457-44f7-97d4-39a090a930bc" />
 
 
 10. Link the **HEX file** using the post-build process.
@@ -83,8 +84,8 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 
 13. Click **Run** to execute the program.
-     <img width="1918" height="852" alt="image" src="https://github.com/user-attachments/assets/1b5cb119-ab87-493f-a4bb-81c5031b451e" />
----
+     <img width="1917" height="1152" alt="image" src="https://github.com/user-attachments/assets/47228bdb-f38c-449d-a3d0-f5b98556c021" />
+
 
 ### 💻 **Program**
 
