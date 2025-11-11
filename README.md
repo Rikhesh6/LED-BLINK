@@ -1,4 +1,4 @@
-# LED-BLINK
+
 # 💡 Experiment 01 – Interfacing a Digital Output (LED) with ARM Development Board
 
 ### 🎯 **Aim**
@@ -64,19 +64,26 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 
 7. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
-   
+   <img width="1918" height="1107" alt="image" src="https://github.com/user-attachments/assets/e1294b86-956c-455c-99ce-0e9e3549297f" />
  
 8. Edit the generated main program as required.
-   
+   <img width="1919" height="1112" alt="image" src="https://github.com/user-attachments/assets/5bbe56fc-c2e4-4a6b-bb6c-e4b180efdfa9" />
+   <img width="1919" height="850" alt="image" src="https://github.com/user-attachments/assets/254ad279-a02d-47b9-8514-d2a1d29fb5fa" />
+
 
 9. Click **Project → Build All**.
-  
+  <img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/a1577bf0-174b-4bac-8fc3-98ad6663a925" />
+
+
 10. Link the **HEX file** using the post-build process.
-    
+    <img width="724" height="256" alt="image" src="https://github.com/user-attachments/assets/e72ef510-acfc-4233-9075-458bb01375dd" />
+
 11. Click **Debug** and connect the **STM Nucleo Board**.
-   
+  <img width="1918" height="1145" alt="image" src="https://github.com/user-attachments/assets/05bd0c6e-fa07-4e1b-a4b3-eb0c746a6117" />
+
+
 13. Click **Run** to execute the program.
-    
+     <img width="1918" height="852" alt="image" src="https://github.com/user-attachments/assets/1b5cb119-ab87-493f-a4bb-81c5031b451e" />
 ---
 
 ### 💻 **Program**
@@ -106,8 +113,10 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
+![WhatsApp Image 2025-11-11 at 11 17 59_f1985f62](https://github.com/user-attachments/assets/5d7b40d0-9610-462c-b395-e3bb92212091)
 
 CASE 2: LED OFF
+![WhatsApp Image 2025-11-11 at 11 17 59_7fd1d79c](https://github.com/user-attachments/assets/b07f7112-4a81-4eb1-b17f-90008a776bbf)
 
 ---
 ### RESULT
